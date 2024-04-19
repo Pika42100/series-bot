@@ -63,8 +63,7 @@ pyton series.py
 python
 
 ## Versions
-Listez les versions ici 
-_exemple :_
+
 **Dernière version beta :** 0.01
 **Dernière version :** 0.01
 
