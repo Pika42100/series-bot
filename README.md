@@ -64,7 +64,8 @@ python
 
 ## Versions
 
-**Dernière version beta :** 0.01
+**version beta :** 0.01
+
 **Dernière version :** 0.01
 
 ## Auteurs
