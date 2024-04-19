@@ -1,6 +1,6 @@
 # SERIES BOT EN PYTHON
 
-bot python qui lance des replique de series tooutes les minutes 
+bot python qui lance des replique de series toutes les minutes 
 
 les commandes:
 
